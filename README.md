@@ -4,18 +4,12 @@
 
 ## Table of Contents
 
-- [Official Documentation](#official-documentation)
 - [General](#general)
 - [Vision](#vision)
 - [Audio](#audio)
 - [Medical](#medical)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Books and Surveys](#books-and-surveys)
-
-## Official Documentation
-
-- [Official Website](https://example.com)
-- [Official Documentation](https://example.com/docs)
 
 ## General
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
