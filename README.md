@@ -1,6 +1,6 @@
 # Awesome State-Space Resources for ML
 
-**Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.**
+**Contributions are welcome! Please read the [contribution guidelines](#contributions) before contributing.**
 
 ## Table of Contents
 
@@ -67,7 +67,9 @@
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+- A
+- B
+- C
 
 ## License
 
