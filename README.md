@@ -24,7 +24,7 @@
 ## Books
 
 1. [Book Title](https://example.com/book1) - Author
-2. [Book Title](https://example.com/book2) - Author
+2. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (2000)
 3. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
 4. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
 5. [Eﬃciently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2110.13985) (ICLR 2022)
@@ -36,13 +36,12 @@
 11. [Augmenting conformers with structured state space models for online speech recognition](https://arxiv.org/abs/2309.08551)
 12. [How to Train your HIPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) (ICLR 2023)
 13. [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
-14. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
+14. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023)
 15. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
-16. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf)
-17. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343)
-18. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf)
-19. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692)
-20. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947)
+17. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343) (NeurIPS 2022)
+18. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf) (ICLR 2023)
+19. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692) (ECCV 2022)
+20. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
 21. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
 22. [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023)
 23. [Deep Latent State Space Models for Time-Series Generation](https://arxiv.org/abs/2212.12749)
