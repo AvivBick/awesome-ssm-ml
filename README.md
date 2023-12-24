@@ -34,8 +34,16 @@
 10. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 11. [Augmenting conformers with structured state space models for online speech recognition](https://arxiv.org/abs/2309.08551)
 12. [How to Train your HIPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) (ICLR 2023)
-13. []()
-14. []()
+13. [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
+14. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052)
+15. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
+16. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf)
+17. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343)
+18. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf)
+19. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692)
+20. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947)
+21. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
+22. [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023)
 
 ## Contributing
 
