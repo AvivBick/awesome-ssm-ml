@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Official Documentation](#official-documentation)
-- [Papers](#papers)
+- [General](#general)
 - [Vision](#vision)
 - [Medical](#medical)
 - [Books and Surveys](#books-and-surveys)
@@ -15,7 +15,7 @@
 - [Official Website](https://example.com)
 - [Official Documentation](https://example.com/docs)
 
-## Papers
+## General
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (2000)
 2. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
 3. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
