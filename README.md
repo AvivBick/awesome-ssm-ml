@@ -47,6 +47,9 @@
 23. [Modeling Multivariate Biosignals with Graph Neural Networks and Structured State Space](https://arxiv.org/abs/2211.11176)
 24. [Deep Latent State Space Models for Time-Series Generation](https://arxiv.org/abs/2212.12749)
 25. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+26. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+27. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349)
+28. [Efficient Movie Scene Detection using State-Space Transformers](https://arxiv.org/abs/2212.14427)
 
 ## Contributing
 
