@@ -44,6 +44,9 @@
 20. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947)
 21. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
 22. [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023)
+23. [Modeling Multivariate Biosignals with Graph Neural Networks and Structured State Space](https://arxiv.org/abs/2211.11176)
+24. [Deep Latent State Space Models for Time-Series Generation](https://arxiv.org/abs/2212.12749)
+25. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
 
 ## Contributing
 
