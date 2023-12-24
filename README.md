@@ -24,6 +24,14 @@
 
 1. [Book Title](https://example.com/book1) - Author
 2. [Book Title](https://example.com/book2) - Author
+3. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985)
+4. [Eﬃciently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2110.13985)
+5. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf)
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
 
 ## Contributing
 
