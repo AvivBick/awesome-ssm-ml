@@ -34,6 +34,7 @@
 28. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
 29. [Generative AI for End-to-End Limit Order Book Modelling](https://arxiv.org/abs/2309.00638) (ICAIF 2023)
 30. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
+31. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
