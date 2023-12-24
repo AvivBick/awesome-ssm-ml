@@ -8,7 +8,7 @@
 - [Books](#books)
 - [Vision](#vision)
 - [Medical](#medical)
-- [Books & Surveys](#books-&-surveys)
+- [Books and Surveys](#books-and-surveys)
 
 ## Official Documentation
 
@@ -58,7 +58,7 @@
 3. [Diffusion-based conditional ECG generation with structured state space models](https://arxiv.org/abs/2301.08227)
 4. [Improving the Diagnosis of Psychiatric Disorders with Self-Supervised Graph State Space Models](https://arxiv.org/pdf/2206.03331.pdf)
 
-## Books & Surveys
+## Books and Surveys
 1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
 2. [The Annotated S4](https://srush.github.io/annotated-s4/)
 
