@@ -76,11 +76,32 @@
 2. [The Annotated S4](https://srush.github.io/annotated-s4/)
 3. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
-## Contributing
+## Contributions
 
-- A
-- B
-- C
+🎉 Thank you for considering contributing to our Awesome State Space Models for Machine Learning repository! 🚀
+
+### Contribute in 3 Steps:
+
+1. **Fork the Repo:**
+   Fork this repo to your GitHub account.
+
+2. **Edit Content:**
+   Contribute by adding new resources or improving existing content in the `README.md` file.
+
+3. **Create a Pull Request:**
+   Open a pull request (PR) from your branch to the main repository.
+
+### Guidelines
+
+- Follow the existing structure and formatting.
+- Ensure added resources are relevant to State Space Models in Machine Learning.
+- Verify that links work correctly.
+
+### Reporting Issues
+
+If you encounter issues or have suggestions, open an issue on the GitHub repository.
+
+Your contributions make this repository awesome! Thank you! 🙌
 
 ## License
 
