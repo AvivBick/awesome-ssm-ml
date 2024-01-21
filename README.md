@@ -47,6 +47,8 @@
 2. [Augmenting conformers with structured state space models for online speech recognition](https://arxiv.org/abs/2309.08551)
 3. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
 4. [Structured State Space Decoder for Speech Recognition and Synthesis](https://arxiv.org/abs/2210.17098)
+5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
+6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
 
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
@@ -74,7 +76,7 @@
 2. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 
 ## Tutorials
-1. [The Annotated S4](https://srush.github.io/annotated-s4/) [tag: Other]
+1. [The Annotated S4](https://srush.github.io/annotated-s4/)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
@@ -85,12 +87,10 @@
 6. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
 7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
 8. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
-9. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
-10. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
-11. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-12. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
-13. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-14. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+9. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+10. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
+11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+12. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 
 
 
