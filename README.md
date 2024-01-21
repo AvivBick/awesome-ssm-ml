@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- [General](#general)
 - [Parameterization and Initialization](#parameterization-and-initialization)
 - [Architecture](#architecture)
 - [Vision](#vision)
@@ -14,23 +13,8 @@
 - [Medical](#medical)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Books and Surveys](#books-and-surveys)
-
-## General
-1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
-2. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf) (ICLR 2023)
-3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
-4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
-5. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
-6. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
-7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
-8. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
-9. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
-10. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
-11. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-12. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
-13. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-14. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
-
+- [Tutorials](#tutorials)
+- [Miscellaneous](#miscellaneous)
 
 ## Parameterization and Initialization
 1. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
@@ -87,8 +71,28 @@
 
 ## Books and Surveys
 1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
-2. [The Annotated S4](https://srush.github.io/annotated-s4/)
-3. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+2. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+
+## Tutorials
+1. [The Annotated S4](https://srush.github.io/annotated-s4/) [tag: Other]
+
+## Miscellaneous
+1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
+2. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf) (ICLR 2023)
+3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
+4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
+5. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
+6. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
+7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
+8. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
+9. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
+10. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
+11. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+12. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
+13. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+14. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+
+
 
 ## Contributions
 
