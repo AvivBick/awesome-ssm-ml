@@ -34,8 +34,10 @@
 3. [Efficient Movie Scene Detection using State-Space Transformers](https://arxiv.org/abs/2212.14427) (CVPR 2023)
 4. [Selective Structured State-Spaces for Long-Form Video Understanding](https://arxiv.org/abs/2303.14526) (CVPR 2023)
 5. [2-D SSM: A General Spatial Layer for Visual Transformers](https://arxiv.org/abs/2306.06635)
-6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)
-7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166)
+6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417) [code](https://github.com/hustvl/Vim)
+7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166) [code](https://github.com/MzeroMiko/VMamba)
+8. [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560) [code](https://github.com/ge-xing/SegMamba)
+9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://github.com/bowang-lab/U-Mamba) [code](https://github.com/bowang-lab/U-Mamba)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023)
