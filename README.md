@@ -52,6 +52,7 @@
 4. [Structured State Space Decoder for Speech Recognition and Synthesis](https://arxiv.org/abs/2210.17098)
 5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
 6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
+7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
 
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
@@ -91,9 +92,8 @@
 7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
 8. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
 9. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-10. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
-11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-12. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+10. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+11. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 
 
 
