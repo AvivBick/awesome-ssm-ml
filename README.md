@@ -37,7 +37,7 @@
 6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417) [code](https://github.com/hustvl/Vim)
 7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166) [code](https://github.com/MzeroMiko/VMamba)
 8. [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560) [code](https://github.com/ge-xing/SegMamba)
-9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://github.com/bowang-lab/U-Mamba) [code](https://github.com/bowang-lab/U-Mamba)
+9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722) [code](https://github.com/bowang-lab/U-Mamba)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023)
