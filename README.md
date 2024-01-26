@@ -38,16 +38,12 @@
 5. [2-D SSM: A General Spatial Layer for Visual Transformers](https://arxiv.org/abs/2306.06635)
 6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417) [[code]](https://github.com/hustvl/Vim)
 7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
-8. [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560) [[code]](https://github.com/ge-xing/SegMamba)
-9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722) [[code]](https://github.com/bowang-lab/U-Mamba)
-10. [Vivim: a Video Vision Mamba for Medical Video Object Segmentation](https://arxiv.org/abs/2401.14168) [[code]](https://github.com/scott-yjyang/Vivim)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023)
 2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
 3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 4. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660)
-
 
 ## Audio
 1. [It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729) (ICML 2022)
@@ -75,6 +71,9 @@
 4. [Improving the Diagnosis of Psychiatric Disorders with Self-Supervised Graph State Space Models](https://arxiv.org/abs/2206.03331)
 5. [fMRI-S4: learning short- and long-range dynamic fMRI dependencies using 1D Convolutions and State Space Models](https://arxiv.org/abs/2208.04166)
 6. [Vivim: a Video Vision Mamba for Medical Video Object Segmentation](https://arxiv.org/abs/2401.14168) [[code]](https://github.com/scott-yjyang/Vivim)
+7. [MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration](https://arxiv.org/abs/2401.13934) [[code]](https://github.com/Guo-Stone/MambaMorph)
+8. [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560) [[code]](https://github.com/ge-xing/SegMamba)
+9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722) [[code]](https://github.com/bowang-lab/U-Mamba)
 
 ## Reinforcement Learning
 1. [Decision S4: Efficient Sequence-Based RL via State Spaces Layers](https://arxiv.org/abs/2306.05167) (ICLR 2023)
