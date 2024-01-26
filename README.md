@@ -22,6 +22,8 @@
 3. [On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893) (NeurIPS 2022)
 4. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343) (NeurIPS 2022)
 5. [How to Train your HIPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) (ICLR 2023)
+6. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+7. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 
 ## Architecture
 1. [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023)
@@ -37,13 +39,14 @@
 6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417) [code](https://github.com/hustvl/Vim)
 7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166) [code](https://github.com/MzeroMiko/VMamba)
 8. [SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation](https://arxiv.org/abs/2401.13560) [code](https://github.com/ge-xing/SegMamba)
-9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://github.com/bowang-lab/U-Mamba) [code](https://github.com/bowang-lab/U-Mamba)
+9. [U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation](https://arxiv.org/abs/2401.04722) [code](https://github.com/bowang-lab/U-Mamba)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023)
 2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
 3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
 4. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/pdf/2401.13660.pdf)
+
 
 ## Audio
 1. [It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729) (ICML 2022)
@@ -52,6 +55,7 @@
 4. [Structured State Space Decoder for Speech Recognition and Synthesis](https://arxiv.org/abs/2210.17098)
 5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
 6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
+7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
 
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
@@ -86,14 +90,12 @@
 2. [Liquid structural state-space models](https://arxiv.org/pdf/2209.12951.pdf) (ICLR 2023)
 3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
 4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
-5. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
-6. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
-7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
-8. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
-9. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-10. [MultiHead State Space Model for Sequence Modeling](https://arxiv.org/abs/2305.12498)
-11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-12. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+5. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
+6. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/pdf/2212.00768.pdf)
+7. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/pdf/2310.02980.pdf)
+8. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+9. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+10. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 
 
 
