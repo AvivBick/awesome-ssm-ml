@@ -21,23 +21,24 @@
 1. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
 2. [Eﬃciently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2110.13985) (ICLR 2022)
 3. [On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893) (NeurIPS 2022)
-4. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343) (NeurIPS 2022)
+4. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343) (NeurIPS 2022) [[code]](https://github.com/ag1988/dss)
 5. [How to Train your HIPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) (ICLR 2023)
-6. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)
+6. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
 7. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 
 ## Architecture
-1. [Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023)
+1. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
 2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
 3. [Pretraining Without Attention](https://arxiv.org/abs/2212.10544)
 4. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081)
+5. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
    
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
-2. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692) (ECCV 2022)
+2. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692) (ECCV 2022) [[code]](https://github.com/md-mohaiminul/ViS4mer)
 3. [Efficient Movie Scene Detection using State-Space Transformers](https://arxiv.org/abs/2212.14427) (CVPR 2023)
 4. [Selective Structured State-Spaces for Long-Form Video Understanding](https://arxiv.org/abs/2303.14526) (CVPR 2023)
-5. [2-D SSM: A General Spatial Layer for Visual Transformers](https://arxiv.org/abs/2306.06635)
+5. [2-D SSM: A General Spatial Layer for Visual Transformers](https://arxiv.org/abs/2306.06635) [[code]](https://github.com/ethanbar11/ssm_2d)
 6. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417) [[code]](https://github.com/hustvl/Vim)
 7. [VMamba: Visual State Space Model](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 
