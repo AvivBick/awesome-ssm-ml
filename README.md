@@ -26,6 +26,7 @@
 6. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
 7. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 8. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
+9. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
 
 ## Architecture
 1. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
