@@ -36,6 +36,7 @@
 5. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
 6. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771)
 7. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818)
+8. [ZigMa: Zigzag Mamba Diffusion Model](https://taohu.me/zigma/)
    
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
