@@ -49,6 +49,8 @@
 8. [U-shaped Vision Mamba for Single Image Dehazing](https://arxiv.org/abs/2402.04139) [[code]](https://github.com/zzr-idam/UVM-Net)
 9. [Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning](https://arxiv.org/abs/2402.15761) [[code]](https://github.com/ChiShengChen/ResVMamba)
 10. [Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation](https://arxiv.org/abs/2402.10887) [[code]](https://github.com/ziyangwang007/Mamba-UNet)
+11. [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/pdf/2403.09338.pdf)[[code]](https://github.com/hunto/LocalMamba)
+12. [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487) [[code]](https://steve-zeyu-zhang.github.io/MotionMamba/?utm_source=catalyzex.com)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
