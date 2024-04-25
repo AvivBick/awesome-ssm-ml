@@ -69,7 +69,7 @@
 7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
 
 ## Time-Series
-1. [Deep State Space Models for Time Series Forecasting](https://proceedings.neurips.cc/paper_files/paper/2018/file/5cf68969fb67aa6082363a6d4e6468e2-Paper.pdf) (NeurIPS 2018)
+1. [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html) (NeurIPS 2018)
 2. [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://arxiv.org/abs/2205.08897) (NeurIPS 2022)
 3. [Effectively modeling time series with simple discrete state spaces](https://arxiv.org/abs/2303.09489) (ICLR 2023)
 4. [Deep Latent State Space Models for Time-Series Generation](https://arxiv.org/abs/2212.12749) (ICML 2023)
