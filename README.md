@@ -67,7 +67,7 @@
 5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
 6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
 7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
-8. [SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model](https://arxiv.org/abs/2405.11831) 
+8. [SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model](https://arxiv.org/abs/2405.11831) [[code]](https://github.com/SiavashShams/ssamba)
 
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html) (NeurIPS 2018)
