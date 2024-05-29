@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Parameterization and Initialization](#parameterization-and-initialization)
+- [Parameterization and Initialization](#ssm-parameterization-and-initialization)
 - [Architecture](#architecture)
 - [Foundation](#foundation)
 - [Vision](#vision)
@@ -18,13 +18,12 @@
 - [Tutorials](#tutorials)
 - [Miscellaneous](#miscellaneous)
 
-## Parameterization and Initialization
+## SSM Parameterization and Initialization
 1. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
 2. [Eﬃciently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2110.13985) (ICLR 2022)
 3. [On the Parameterization and Initialization of Diagonal State Space Models](https://arxiv.org/abs/2206.11893) (NeurIPS 2022)
 4. [Diagonal State Spaces are as Effective as Structured State Spaces](https://arxiv.org/abs/2203.14343) (NeurIPS 2022) [[code]](https://github.com/ag1988/dss)
 5. [How to Train your HIPPO: State Space Models with Generalized Orthogonal Basis Projections](https://arxiv.org/abs/2206.12037) (ICLR 2023)
-6. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
 7. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 8. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 9. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
@@ -43,13 +42,14 @@
 11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
 
 ## Foundation
-1. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-2. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
-3. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
-4. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
-5. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
-6. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
-7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
+1. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
+2. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+3. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
+4. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
+5. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
+6. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
+7. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
+8. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
    
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
