@@ -109,11 +109,18 @@
 3. [Principles of System Identification Theory and Practice](https://www.taylorfrancis.com/books/mono/10.1201/9781315222509/principles-system-identification-arun-tangirala)
 
 ## Tutorials
+
+### Blogposts
 1. [The Annotated S4](https://srush.github.io/annotated-s4/)
 2. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
 3. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
-4. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
-5. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
+4. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
+
+### Videos
+1. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
+2. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
+3. [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
+4. [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=luCBXCErkCs)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
