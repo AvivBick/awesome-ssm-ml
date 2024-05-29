@@ -107,6 +107,9 @@
 1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
 2. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 3. [Principles of System Identification Theory and Practice](https://www.taylorfrancis.com/books/mono/10.1201/9781315222509/principles-system-identification-arun-tangirala)
+4. [State Space Model for New-Generation Network Alternative to Transformers](https://arxiv.org/abs/2404.09516)
+5. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
+6. [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)
 
 ## Tutorials
 
