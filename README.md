@@ -112,6 +112,8 @@
 1. [The Annotated S4](https://srush.github.io/annotated-s4/)
 2. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
 3. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
+4. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
+5. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
