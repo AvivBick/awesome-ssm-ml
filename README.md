@@ -30,13 +30,13 @@
 
 ## Tutorials
 
-### Blogposts
+#### Blogposts
 1. [The Annotated S4](https://srush.github.io/annotated-s4/)
 2. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
 3. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
 4. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 
-### Videos
+#### Videos
 1. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
 2. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
 3. [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
