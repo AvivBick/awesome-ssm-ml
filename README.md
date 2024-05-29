@@ -6,6 +6,7 @@
 
 - [Parameterization and Initialization](#parameterization-and-initialization)
 - [Architecture](#architecture)
+- [Foundation](#foundation)
 - [Vision](#vision)
 - [Language](#language)
 - [Audio](#audio)
@@ -37,6 +38,18 @@
 6. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) [[code]](https://github.com/Zyphra/BlackMamba)
 7. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818) [[code]](https://github.com/WailordHe/DenseSSM)
 8. [ZigMa: Zigzag Mamba Diffusion Model](https://arxiv.org/abs/2403.13802) [[code]](https://github.com/CompVis/zigma) [[website]](https://taohu.me/zigma/)
+9. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+10. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
+11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+
+## Foundation
+1. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+2. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
+3. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
+4. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
+5. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
+6. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
+7. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
    
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
@@ -131,15 +144,7 @@
 2. [Liquid structural state-space models](https://arxiv.org/abs/2209.12951) (ICLR 2023)
 3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
 4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
-5. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
-6. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
-7. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
-8. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-9. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-10. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
-11. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
-12. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
-13. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
+5. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
 
 
 
