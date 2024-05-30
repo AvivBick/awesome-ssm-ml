@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
-- [Foundation](#foundation)
 - [Tutorials](#tutorials)
+- [Foundation](#foundation)
+- [Surveys](#surveys)
 - [Books and Surveys](#books-and-surveys)
 - [Architecture](#architecture)
 - [Vision](#vision)
@@ -36,7 +37,7 @@
 4. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
 5. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
 
-## Surveys (Structured State Space Models)
+## Surveys (Structured State Space Models) <a name="surveys"></a>
 1. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
 2. [State Space Model for New-Generation Network Alternative to Transformers](https://arxiv.org/abs/2404.09516)
 3. [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)
