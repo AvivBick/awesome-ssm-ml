@@ -5,9 +5,9 @@
 ## Table of Contents
 
 - [Tutorials](#tutorials)
-- [Foundation](#foundation)
 - [Surveys](#surveys)
-- [Books and Surveys](#books-and-surveys)
+- [Books](#books)
+- [Foundation](#foundation)
 - [Architecture](#architecture)
 - [Vision](#vision)
 - [Language](#language)
@@ -19,7 +19,7 @@
 - [Parameterization and Initialization](#ssm-parameterization-and-initialization)
 - [Miscellaneous](#miscellaneous)
 
-## Tutorials
+## Tutorials <a name="tutorials"></a>
 
 #### Blogposts
 1. [S4 Series](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)
@@ -43,7 +43,7 @@
 3. [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)
 4. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
 
-## Books (Classical State Space Models)
+## Books (Classical State Space Models) <a name="books"></a>
 1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
 2. [Principles of System Identification Theory and Practice](https://www.taylorfrancis.com/books/mono/10.1201/9781315222509/principles-system-identification-arun-tangirala)
 
