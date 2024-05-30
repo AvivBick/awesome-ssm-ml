@@ -18,6 +18,34 @@
 - [Parameterization and Initialization](#ssm-parameterization-and-initialization)
 - [Miscellaneous](#miscellaneous)
 
+## Tutorials
+
+#### Blogposts
+1. [S4 Series](https://hazyresearch.stanford.edu/blog/2022-01-14-s4-1)
+2. [The Annotated S4](https://srush.github.io/annotated-s4/)
+3. [The Annotated S4D](https://srush.github.io/annotated-s4/s4d.html)
+4. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
+5. [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
+6. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
+7. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
+
+#### Videos
+1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=luCBXCErkCs)
+2. [Do we need Attention? A Mamba Primer](https://www.youtube.com/watch?v=dVH1dRoMPBc)
+3. [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
+4. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
+5. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
+
+## Surveys (Structured State Space Models)
+1. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
+2. [State Space Model for New-Generation Network Alternative to Transformers](https://arxiv.org/abs/2404.09516)
+3. [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)
+4. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
+
+## Books (Classical State Space Models)
+1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
+2. [Principles of System Identification Theory and Practice](https://www.taylorfrancis.com/books/mono/10.1201/9781315222509/principles-system-identification-arun-tangirala)
+
 ## Foundation
 1. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
 2. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
@@ -28,28 +56,6 @@
 7. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
 8. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
 
-## Tutorials
-
-#### Blogposts
-1. [The Annotated S4](https://srush.github.io/annotated-s4/)
-2. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
-3. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
-4. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
-
-#### Videos
-1. [Yannic Kilcher's Video](https://www.youtube.com/watch?v=9dSkvxS2EB0)
-2. [MAMBA from Scratch](https://www.youtube.com/watch?v=N6Piou4oYx8)
-3. [Mamba and S4 Explained: Architecture, Parallel Scan, Kernel Fusion, Recurrent, Convolution, Math](https://www.youtube.com/watch?v=8Q_tqwpTpVU)
-4. [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=luCBXCErkCs)
-
-## Books and Surveys
-1. [Linear State-Space Control Systems](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470117873)
-2. [Modeling Sequences with Structured State Spaces](https://www.proquest.com/docview/2880853867?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
-3. [Principles of System Identification Theory and Practice](https://www.taylorfrancis.com/books/mono/10.1201/9781315222509/principles-system-identification-arun-tangirala)
-4. [State Space Model for New-Generation Network Alternative to Transformers](https://arxiv.org/abs/2404.09516)
-5. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
-6. [Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges](https://arxiv.org/abs/2404.16112)
-   
 ## Architecture
 1. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
 2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
