@@ -27,8 +27,9 @@
 3. [The Annotated S4D](https://srush.github.io/annotated-s4/s4d.html)
 4. [The Annotated Mamba](https://srush.github.io/annotated-mamba/hard.html) [[code]](https://github.com/srush/annotated-mamba)
 5. [Mamba: The Easy Way](https://jackcook.com/2024/02/23/mamba.html)
-6. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
-7. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
+6. [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html)
+7. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
+8. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 
 #### Videos
 1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=luCBXCErkCs)
