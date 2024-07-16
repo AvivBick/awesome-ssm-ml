@@ -103,6 +103,7 @@
 7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
 8. [SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model](https://arxiv.org/abs/2405.11831) [[code]](https://github.com/SiavashShams/ssamba)
 9. [Audio Mamba: Bidirectional State Space Model for Audio Representation Learning](https://arxiv.org/abs/2406.03344) [[code]](https://github.com/kaistmm/Audio-Mamba-AuM)
+10. [Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis](https://arxiv.org/abs/2407.09732) [[code]](https://github.com/xi-j/Mamba-ASR)
 
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html) (NeurIPS 2018)
