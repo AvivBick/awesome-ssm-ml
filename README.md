@@ -156,7 +156,7 @@
 3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
 4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
 5. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
-6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html)
+6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019) 
 
 
 ## Contributions
