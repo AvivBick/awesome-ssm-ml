@@ -131,6 +131,7 @@
 12. [MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation](https://arxiv.org/abs/2402.18451)
 13. [ViM-UNet: Vision Mamba for Biomedical Segmentation](https://doi.org/10.48550/arXiv.2404.07705) (MIDL 2024)
 14. [I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling](https://arxiv.org/abs/2405.14022) [[code]](https://github.com/icon-lab/I2I-Mamba)
+15. [BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba](https://arxiv.org/abs/2408.02600)
 
 ## Tabular
 1. [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867)
