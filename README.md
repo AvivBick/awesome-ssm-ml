@@ -59,18 +59,41 @@
 8. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
 
 ## Architecture
-1. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
-2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
-3. [Pretraining Without Attention](https://arxiv.org/abs/2212.10544) [[code]](https://github.com/jxiw/BiGS)
-4. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) [[code]](https://github.com/llm-random/llm-random)
-5. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
-6. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) [[code]](https://github.com/Zyphra/BlackMamba)
-7. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818) [[code]](https://github.com/WailordHe/DenseSSM)
-8. [ZigMa: Zigzag Mamba Diffusion Model (ECCV 2024) ](https://arxiv.org/abs/2403.13802) [[code]](https://github.com/CompVis/zigma) [[website]](https://taohu.me/zigma/)
-9. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
-10. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
-11. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-   
+1. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
+2. [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570)
+3. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
+4. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
+5. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
+6. [Pretraining Without Attention](https://arxiv.org/abs/2212.10544) [[code]](https://github.com/jxiw/BiGS)
+7. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) [[code]](https://github.com/llm-random/llm-random)
+8. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
+9. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) [[code]](https://github.com/Zyphra/BlackMamba)
+10. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818) [[code]](https://github.com/WailordHe/DenseSSM)
+11. [ZigMa: Zigzag Mamba Diffusion Model (ECCV 2024) ](https://arxiv.org/abs/2403.13802) [[code]](https://github.com/CompVis/zigma) [[website]](https://taohu.me/zigma/)
+12. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
+13. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+
+## Language
+1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
+2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023) [[code]](https://github.com/lucidrains/gated-state-spaces-pytorch.git)
+3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
+4. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660) [[code]](https://github.com/lucidrains/MEGABYTE-pytorch)
+5. [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248)
+6. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
+
+## Audio
+1. [It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729) (ICML 2022) [[code]](https://github.com/state-spaces/s4)
+2. [Augmenting conformers with structured state space models for online speech recognition](https://arxiv.org/abs/2309.08551)
+3. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
+4. [Structured State Space Decoder for Speech Recognition and Synthesis](https://arxiv.org/abs/2210.17098)
+5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
+6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
+7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
+8. [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](https://arxiv.org/abs/2403.18257) [[code]](https://github.com/xi-j/Mamba-TasNet)
+9. [SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model](https://arxiv.org/abs/2405.11831) [[code]](https://github.com/SiavashShams/ssamba)
+10. [Audio Mamba: Bidirectional State Space Model for Audio Representation Learning](https://arxiv.org/abs/2406.03344) [[code]](https://github.com/kaistmm/Audio-Mamba-AuM)
+11. [Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis](https://arxiv.org/abs/2407.09732) [[code]](https://github.com/xi-j/Mamba-ASR)
+
 ## Vision
 1. [S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces](https://arxiv.org/abs/2210.06583) (NeurIPS 2022)
 2. [Long movie clip classification with state-space video models](https://arxiv.org/abs/2204.01692) (ECCV 2022) [[code]](https://github.com/md-mohaiminul/ViS4mer)
@@ -86,27 +109,7 @@
 12. [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487) [[code]](https://steve-zeyu-zhang.github.io/MotionMamba/?utm_source=catalyzex.com)
 13. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
 14. [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://arxiv.org/abs/2406.17815) [[code]](https://github.com/Arhosseini77/SUM)
-
-## Language
-1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
-2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023) [[code]](https://github.com/lucidrains/gated-state-spaces-pytorch.git)
-3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
-4. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660) [[code]](https://github.com/lucidrains/MEGABYTE-pytorch)
-5. [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248)
-
-## Audio
-1. [It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729) (ICML 2022) [[code]](https://github.com/state-spaces/s4)
-2. [Augmenting conformers with structured state space models for online speech recognition](https://arxiv.org/abs/2309.08551)
-3. [Diagonal State Space Augmented Transformers for Speech Recognition](https://arxiv.org/abs/2302.14120)
-4. [Structured State Space Decoder for Speech Recognition and Synthesis](https://arxiv.org/abs/2210.17098)
-5. [Spiking Structured State Space Model for Monaural Speech Enhancement](https://arxiv.org/abs/2309.03641)
-6. [A Neural State-Space Model Approach to Efficient Speech Separation](https://arxiv.org/abs/2305.16932)
-7. [Multi-Head State Space Model for Speech Recognition](https://arxiv.org/abs/2305.12498)
-8. [Dual-path Mamba: Short and Long-term Bidirectional Selective Structured State Space Models for Speech Separation](https://arxiv.org/abs/2403.18257) [[code]](https://github.com/xi-j/Mamba-TasNet)
-9. [SSAMBA: Self-Supervised Audio Representation Learning with Mamba State Space Model](https://arxiv.org/abs/2405.11831) [[code]](https://github.com/SiavashShams/ssamba)
-10. [Audio Mamba: Bidirectional State Space Model for Audio Representation Learning](https://arxiv.org/abs/2406.03344) [[code]](https://github.com/kaistmm/Audio-Mamba-AuM)
-11. [Speech Slytherin: Examining the Performance and Efficiency of Mamba for Speech Separation, Recognition, and Synthesis](https://arxiv.org/abs/2407.09732) [[code]](https://github.com/xi-j/Mamba-ASR)
-
+    
 ## Time-Series
 1. [Deep State Space Models for Time Series Forecasting](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html) (NeurIPS 2018)
 2. [FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting](https://arxiv.org/abs/2205.08897) (NeurIPS 2022)
