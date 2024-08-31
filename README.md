@@ -85,7 +85,7 @@
 11. [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://arxiv.org/abs/2403.09338) [[code]](https://github.com/hunto/LocalMamba)
 12. [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://arxiv.org/abs/2403.07487) [[code]](https://steve-zeyu-zhang.github.io/MotionMamba/?utm_source=catalyzex.com)
 13. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
-14. [SUM: Saliency Unification through Mamba for Visual Attention Modeling] (WACV 2025) (https://arxiv.org/abs/2406.17815) [[code]](https://github.com/Arhosseini77/SUM)
+14. [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://arxiv.org/abs/2406.17815) (WACV 2025) [[code]](https://github.com/Arhosseini77/SUM)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
