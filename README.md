@@ -155,6 +155,7 @@
 7. [Robustifying State-space Models for Long Sequences via Approximate Diagonalization](https://arxiv.org/abs/2310.01698)
 8. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 9. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
+10. [From Generalization Analysis to Optimization Designs for State Space Models](https://openreview.net/pdf/12a936fb55d971866ed92002866b905c5ecb6cff.pdf) (ICML 2024)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
