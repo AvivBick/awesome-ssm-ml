@@ -31,6 +31,7 @@
 7. [A Visual Guide to Mamba and State Space Models](https://open.substack.com/pub/maartengrootendorst/p/a-visual-guide-to-mamba-and-state)
 8. [State Space Models: A Modern Approach](https://probml.github.io/ssm-book/root.html)
 9. [Mamba No. 5 (A Little Bit Of...)](https://jameschen.io/jekyll/update/2024/02/12/mamba.html)
+10. [Mamba: SSM, Theory, and Implementation in Keras and TensorFlow](https://medium.com/towards-data-science/mamba-ssm-theory-and-implementation-in-keras-and-tensorflow-32d6d4b32546)
 
 #### Videos
 1. [Efficiently Modeling Long Sequences with Structured State Spaces](https://www.youtube.com/watch?v=luCBXCErkCs)
