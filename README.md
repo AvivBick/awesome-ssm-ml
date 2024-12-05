@@ -17,6 +17,7 @@
 - [Tabular](#tabular)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Parameterization and Initialization](#ssm-parameterization-and-initialization)
+- [Systems Optimizations](#systems-optimizations)
 - [Miscellaneous](#miscellaneous)
 
 ## Tutorials <a name="tutorials"></a>
@@ -159,6 +160,9 @@
 8. [StableSSM: Alleviating the Curse of Memory in State-space Models through Stable Reparameterization](https://arxiv.org/abs/2311.14495)
 9. [Spectral State Space Models](https://arxiv.org/abs/2312.06837)
 10. [From Generalization Analysis to Optimization Designs for State Space Models](https://arxiv.org/abs/2405.02670) (ICML 2024)
+
+## Systems Optimizations
+1. [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://arxiv.org/abs/2411.19379)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
