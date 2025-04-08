@@ -164,7 +164,8 @@
 10. [From Generalization Analysis to Optimization Designs for State Space Models](https://arxiv.org/abs/2405.02670) (ICML 2024)
 
 ## Systems Optimizations
-1. [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://arxiv.org/abs/2411.19379)
+1. [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://arxiv.org/abs/2411.19379) (MLSys 2025)
+2. [Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://arxiv.org/abs/2503.18292)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
