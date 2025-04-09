@@ -114,7 +114,7 @@
 13. [MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models](https://arxiv.org/abs/2403.09471) [[code]](https://github.com/kkakkkka/MambaTalk)
 14. [A Survey on Visual Mamba](https://arxiv.org/abs/2404.15956)
 15. [SUM: Saliency Unification through Mamba for Visual Attention Modeling](https://arxiv.org/abs/2406.17815) [[code]](https://github.com/Arhosseini77/SUM)
-16. [[CVPR'24 Spotlight] State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584) [[code]](https://github.com/uzh-rpg/ssms_event_cameras)
+16. [State Space Models for Event Cameras](https://arxiv.org/abs/2402.15584) [[code]](https://github.com/uzh-rpg/ssms_event_cameras) (CVPR 2024 Spotlight)
 17. [DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding](https://arxiv.org/abs/2503.16426) [[code]](https://github.com/KyanChen/DynamicVis)
 
 ## Time-Series
