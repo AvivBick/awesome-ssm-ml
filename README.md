@@ -176,6 +176,8 @@
 5. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
 6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019) 
 
+## Point Cloud
+1. [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739) (NeurIPS 2024)
 
 ## Contributions
 
