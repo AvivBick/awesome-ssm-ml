@@ -53,13 +53,14 @@
 
 ## Foundation
 1. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
-2. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
-3. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
-4. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
-5. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
-6. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
-7. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
-8. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
+2. [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
+3. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
+4. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
+5. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
+6. [Theoretical Foundations of Deep Selective State-Space Models](https://arxiv.org/abs/2402.19047)
+7. [The Hidden Attention of Mamba Models](https://arxiv.org/abs/2403.01590)
+8. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
+9. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
 
 ## Architecture
 1. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
