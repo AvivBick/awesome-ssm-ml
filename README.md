@@ -4,21 +4,22 @@
 
 ## Table of Contents
 
-- [Tutorials](#tutorials)
-- [Surveys](#surveys)
-- [Books](#books)
-- [Foundation](#foundation)
-- [Architecture](#architecture)
-- [Vision](#vision)
-- [Language](#language)
-- [Audio](#audio)
-- [Time-Series](#time-series)
-- [Medical](#medical)
-- [Tabular](#tabular)
-- [Reinforcement Learning](#reinforcement-learning)
-- [Parameterization and Initialization](#ssm-parameterization-and-initialization)
-- [Systems Optimizations](#systems-optimizations)
-- [Miscellaneous](#miscellaneous)
+- [Tutorials](#tutorials)  
+- [Surveys](#surveys)  
+- [Books](#books)  
+- [Foundation](#foundation)  
+- [Distillation](#distillation)  
+- [Architecture](#architecture)  
+- [Vision](#vision)  
+- [Language](#language)  
+- [Audio](#audio)  
+- [Time-Series](#time-series)  
+- [Medical](#medical)  
+- [Tabular](#tabular)  
+- [Reinforcement Learning](#reinforcement-learning)  
+- [Parameterization and Initialization](#ssm-parameterization-and-initialization)  
+- [Systems Optimizations](#systems-optimizations)  
+- [Miscellaneous](#miscellaneous)  
 
 ## Tutorials <a name="tutorials"></a>
 
@@ -138,6 +139,7 @@
 6. [On the Performance of Legendre State-Space Models in Short-Term Time Series Forecasting](https://ieeexplore.ieee.org/document/10289082) (CCECE 2023)
 7. [Neural Continuous-Discrete State Space Models for Irregularly-Sampled Time Series](https://arxiv.org/abs/2301.11308)
 8. [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399)
+9. [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144)
 
 ## Medical
 1. [Structured State Space Models for Multiple Instance Learning in Digital Pathology](https://arxiv.org/abs/2306.15789)
