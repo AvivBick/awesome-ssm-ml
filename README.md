@@ -53,7 +53,7 @@
 
 ## Foundation
 1. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
-2. [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/pdf/2405.21060)
+2. [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)
 3. [Structured state-space models are deep Wiener models](https://arxiv.org/abs/2312.06211)
 4. [State-space Models with Layer-wise Nonlinearity are Universal Approximators with Exponential Decaying Memory](https://arxiv.org/abs/2309.13414)
 5. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://arxiv.org/abs/2402.01032)
@@ -62,30 +62,40 @@
 8. [The Expressive Capacity of State Space Models: A Formal Language Perspective](https://arxiv.org/abs/2405.17394)
 9. [Simplifying and Understanding State Space Models with Diagonal Linear RNNs](https://arxiv.org/abs/2212.00768)
 10. [Understanding the Skill Gap in Recurrent Language Models: The Role of the Gather-and-Aggregate Mechanism](https://arxiv.org/abs/2504.18574)
+11. [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248)
+12. [An Empirical Study of Mamba-based Language Models](https://arxiv.org/abs/2406.07887)
 
-## Architecture
+## Distillation
+1. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
+2. [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](https://arxiv.org/abs/2408.15237)
+3. [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/abs/2502.20339)
+
+## Architectures
+
+### Hybrid Architectures
 1. [Jamba: A Hybrid Transformer-Mamba Language Model](https://arxiv.org/abs/2403.19887)
 2. [Jamba-1.5: Hybrid Transformer-Mamba Models at Scale](https://arxiv.org/abs/2408.12570)
-3. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
-4. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
-5. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
-6. [Pretraining Without Attention](https://arxiv.org/abs/2212.10544) [[code]](https://github.com/jxiw/BiGS)
-7. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) [[code]](https://github.com/llm-random/llm-random)
-8. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
-9. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) [[code]](https://github.com/Zyphra/BlackMamba)
-10. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818) [[code]](https://github.com/WailordHe/DenseSSM)
-11. [ZigMa: Zigzag Mamba Diffusion Model (ECCV 2024) ](https://arxiv.org/abs/2403.13802) [[code]](https://github.com/CompVis/zigma) [[website]](https://taohu.me/zigma/)
-12. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
-13. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
-14. [S7: Selective and Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2410.03464)
+3. [The Zamba2 Suite: Technical Report](https://arxiv.org/abs/2411.15242)
+4. [Hymba: A Hybrid-head Architecture for Small Language Models](https://arxiv.org/abs/2411.13676)
+   
+### Other
+1. [S5: Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2208.04933) (ICLR 2023) [[code]](https://github.com/lindermanlab/S5)
+2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023)
+3. [Pretraining Without Attention](https://arxiv.org/abs/2212.10544) [[code]](https://github.com/jxiw/BiGS)
+4. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) [[code]](https://github.com/llm-random/llm-random)
+5. [LOCOST: State-Space Models for Long Document Abstractive Summarization](https://arxiv.org/abs/2401.17919) [[code]](https://github.com/flbbb/locost-summarization)
+6. [BlackMamba: Mixture of Experts for State-Space Models](https://arxiv.org/abs/2402.01771) [[code]](https://github.com/Zyphra/BlackMamba)
+7. [DenseMamba: State Space Models with Dense Hidden Connection for Efficient Large Language Models](https://arxiv.org/abs/2403.00818) [[code]](https://github.com/WailordHe/DenseSSM)
+8. [ZigMa: Zigzag Mamba Diffusion Model (ECCV 2024) ](https://arxiv.org/abs/2403.13802) [[code]](https://github.com/CompVis/zigma) [[website]](https://taohu.me/zigma/)
+9. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
+10. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
+11. [S7: Selective and Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2410.03464)
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
 2. [Long range language modeling via gated state spaces](https://arxiv.org/abs/2206.13947) (ICLR 2023) [[code]](https://github.com/lucidrains/gated-state-spaces-pytorch.git)
-3. [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) [[code]](https://github.com/state-spaces/mamba)
-4. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660) [[code]](https://github.com/lucidrains/MEGABYTE-pytorch)
-5. [Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks](https://arxiv.org/abs/2402.04248)
-6. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
+3. [MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660) [[code]](https://github.com/lucidrains/MEGABYTE-pytorch)
+4. [Llamba: Scaling Distilled Recurrent Models for Efficient Language Processing](https://arxiv.org/abs/2502.14458)
 
 ## Audio
 1. [It's Raw! Audio Generation with State-Space Models](https://arxiv.org/abs/2202.09729) (ICML 2022) [[code]](https://github.com/state-spaces/s4)
@@ -147,14 +157,6 @@
 15. [BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba](https://arxiv.org/abs/2408.02600)
 16. [MambaRoll: Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction](https://arxiv.org/abs/2412.09331) [[code]](https://github.com/icon-lab/MambaRoll)
 
-## Tabular
-1. [MambaTab: A Simple Yet Effective Approach for Handling Tabular Data](https://arxiv.org/abs/2401.08867)
-
-## Reinforcement Learning
-1. [Decision S4: Efficient Sequence-Based RL via State Spaces Layers](https://arxiv.org/abs/2306.05167) (ICLR 2023)
-2. [Structured State Space Models for In-Context Reinforcement Learning](https://arxiv.org/abs/2303.03982) (NeurIPS 2023)
-3. [Mastering Memory Tasks with World Models](https://openreview.net/forum?id=1vDArHJ68h) (ICLR 2024 oral)
-
 ## SSM Parameterization and Initialization
 1. [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) (NeurIPS 2021)
 2. [Eﬃciently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2110.13985) (ICLR 2022)
@@ -170,13 +172,22 @@
 1. [Marconi: Prefix Caching for the Era of Hybrid LLMs](https://arxiv.org/abs/2411.19379) (MLSys 2025)
 2. [Jenga: Effective Memory Management for Serving LLM with Heterogeneity](https://arxiv.org/abs/2503.18292)
 
+## Tabular
+1. [MambaTab: A Plug-and-Play Model for Learning Tabular Data](https://arxiv.org/abs/2401.08867)
+2. [Mambular: A Sequential Model for Tabular Deep Learning](https://arxiv.org/pdf/2408.06291)
+
+## Reinforcement Learning
+1. [Decision S4: Efficient Sequence-Based RL via State Spaces Layers](https://arxiv.org/abs/2306.05167) (ICLR 2023)
+2. [Structured State Space Models for In-Context Reinforcement Learning](https://arxiv.org/abs/2303.03982) (NeurIPS 2023)
+3. [Mastering Memory Tasks with World Models](https://openreview.net/forum?id=1vDArHJ68h) (ICLR 2024 oral)
+
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
 2. [Liquid structural state-space models](https://arxiv.org/abs/2209.12951) (ICLR 2023)
 3. [Resurrecting Recurrent Neural Networks for Long Sequences](https://arxiv.org/abs/2303.06349) (ICML 2023)
 4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
 5. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
-6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019) 
+6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019)
 
 
 ## Contributions
