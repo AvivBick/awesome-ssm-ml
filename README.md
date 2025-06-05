@@ -91,6 +91,7 @@
 9. [Block-State Transformers](https://arxiv.org/abs/2306.09539)
 10. [Efficient Long Sequence Modeling via State Space Augmented Transformer](https://arxiv.org/abs/2212.08136)
 11. [S7: Selective and Simplified State Space Layers for Sequence Modeling](https://arxiv.org/abs/2410.03464)
+12. [Sparsified State-Space Models are Efficient Highway Networks](https://arxiv.org/abs/2505.20698)  [[code]](https://github.com/woominsong/Simba) 
 
 ## Language
 1. [Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) (ICLR 2023) [[code]](https://github.com/HazyResearch/H3)
@@ -190,6 +191,7 @@
 4. [Learning Low Dimensional State Spaces with Overparameterized Recurrent Neural Nets](https://arxiv.org/abs/2210.14064) (ICLR 2023)
 5. [Never Train from Scratch: Fair Comparison Of Long- Sequence Models Requires Data-Driven Pirors](https://arxiv.org/abs/2310.02980)
 6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019)
+7. [Mamba Drafters for Speculative Decoding](https://arxiv.org/abs/2506.01206)
 
 
 ## Contributions
