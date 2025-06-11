@@ -196,7 +196,9 @@
 6. [Legendre Memory Units: Continuous-Time Representation in Recurrent Neural Networks](https://papers.nips.cc/paper_files/paper/2019/hash/952285b9b7e7a1be5aa7849f32ffff05-Abstract.html) (NeurIPS 2019)
 7. [Mamba Drafters for Speculative Decoding](https://arxiv.org/abs/2506.01206)
 
-
+## Point Cloud
+1. [PointMamba: A Simple State Space Model for Point Cloud Analysis](https://arxiv.org/abs/2402.10739) (NeurIPS 2024)
+2. [Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model](https://arxiv.org/abs/2404.14966) (ACM MM 2024)
 ## Contributions
 
 🎉 Thank you for considering contributing to our Awesome State Space Models for Machine Learning repository! 🚀
