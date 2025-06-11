@@ -177,7 +177,7 @@
 
 ## Tabular
 1. [MambaTab: A Plug-and-Play Model for Learning Tabular Data](https://arxiv.org/abs/2401.08867)
-2. [Mambular: A Sequential Model for Tabular Deep Learning](https://arxiv.org/pdf/2408.06291)
+2. [Mambular: A Sequential Model for Tabular Deep Learning](https://arxiv.org/abs/2408.06291)
 
 ## Reinforcement Learning
 1. [Decision S4: Efficient Sequence-Based RL via State Spaces Layers](https://arxiv.org/abs/2306.05167) (ICLR 2023)
@@ -185,7 +185,7 @@
 3. [Mastering Memory Tasks with World Models](https://openreview.net/forum?id=1vDArHJ68h) (ICLR 2024 oral)
 
 ## Federated Learning
-1. [Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning](https://arxiv.org/pdf/2501.01653) (AAAI 2025 oral)
+1. [Look Back for More: Harnessing Historical Sequential Updates for Personalized Federated Adapter Tuning](https://arxiv.org/abs/2501.01653) (AAAI 2025 oral)
 
 ## Miscellaneous
 1. [Variational learning for switching state-space models](https://www.cs.toronto.edu/~hinton/absps/switch.pdf) (Neural Computation 2000)
