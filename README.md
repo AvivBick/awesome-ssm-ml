@@ -70,6 +70,7 @@
 1. [Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models](https://arxiv.org/abs/2408.10189) [[code]](https://github.com/goombalab/phi-mamba)
 2. [The Mamba in the Llama: Distilling and Accelerating Hybrid Models](https://arxiv.org/abs/2408.15237)
 3. [Thinking Slow, Fast: Scaling Inference Compute with Distilled Reasoners](https://arxiv.org/abs/2502.20339)
+4. [Retrieval-Aware Distillation for Transformer-SSM Hybrids](https://arxiv.org/pdf/2602.11374)
 
 ## Architectures
 
