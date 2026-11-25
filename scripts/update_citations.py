@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Refresh OpenAlex counts and write ordinary Markdown into README.md (stdlib only)."""
+"""Refresh OpenAlex counts and write Markdown image badges into README.md (stdlib only)."""
 import argparse
 import copy
 import json
@@ -11,7 +11,7 @@ import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from urllib.error import HTTPError, URLError
-from urllib.parse import urlencode, urlsplit
+from urllib.parse import quote, urlencode, urlsplit
 from urllib.request import Request, urlopen
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -148,9 +148,11 @@ def render(readme, data, keys):
             line = BADGE.sub('', line)
             if valid_count(paper.get('citation_count')) and paper.get('openalex_id'):
                 checked = paper.get('updated_at') or 'unknown'
-                badge = f'[Citations: {paper["citation_count"]:,}](https://openalex.org/{paper["openalex_id"]} "OpenAlex; checked {checked}")'
+                count = f'{paper["citation_count"]:,}'
+                image = f'https://img.shields.io/badge/citations-{quote(count, safe="")}-007ec6?style=flat-square'
+                badge = f'[![Citations: {count}]({image})](https://openalex.org/{paper["openalex_id"]} "OpenAlex; checked {checked}")'
             else:
-                badge = '*Citations: unavailable*'
+                badge = '![Citations: unavailable](https://img.shields.io/badge/citations-unavailable-lightgrey?style=flat-square)'
             line += ' <!-- citations:start --> ' + badge + ' <!-- citations:end -->'
         lines.append(line)
     readme = '\n'.join(lines) + '\n'

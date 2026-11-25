@@ -39,7 +39,7 @@ class UpdaterTests(unittest.TestCase):
         self.assertEqual(refreshed, {'p','q'}); self.assertFalse(errors)
         self.assertEqual(d['papers']['p']['citation_count'], 0)
         self.assertEqual(d['papers']['q']['openalex_id'], 'W2')
-        self.assertIn('[Citations: 0]', updater.render(README, d, ['p','q']))
+        self.assertIn('![Citations: 0]', updater.render(README, d, ['p','q']))
 
     def test_missing_record_retains_its_count_and_timestamp(self):
         d = data(); original = copy.deepcopy(d['papers']['p'])
@@ -80,9 +80,12 @@ class UpdaterTests(unittest.TestCase):
         self.assertEqual(first.count('<!-- citations:start -->'),2)
         self.assertEqual(first.count('<!-- citation-summary:start -->'),1)
         self.assertIn('(ICML 2024) [[code]](https://example.org/code)',first)
-        self.assertIn('*Citations: unavailable*',first)
+        self.assertIn('![Citations: unavailable](https://img.shields.io/badge/citations-unavailable-lightgrey?style=flat-square)',first)
         self.assertNotIn('<script',first)
         self.assertIn(OLD,first)
+        self.assertIn('[![Citations: 7](https://img.shields.io/badge/citations-7-007ec6?style=flat-square)](https://openalex.org/W1',first)
+        d['papers']['p']['citation_count']=12073
+        self.assertIn('citations-12%2C073-007ec6?style=flat-square',updater.render(README,d,['p','q']))
 
     def test_auto_discovers_new_arxiv_paper_but_not_tutorial(self):
         d=data()
@@ -117,8 +120,8 @@ class UpdaterTests(unittest.TestCase):
         result=updater.render(readme,d,keys)
         available=sum(updater.valid_count(d['papers'][key].get('citation_count')) for key in keys)
         self.assertEqual(result.count('<!-- citations:start -->'),len(keys))
-        self.assertEqual(result.count('[Citations:'),available)
-        self.assertEqual(result.count('*Citations: unavailable*'),len(keys)-available)
+        self.assertEqual(result.count('[![Citations:'),available)
+        self.assertEqual(result.count('![Citations: unavailable]'),len(keys)-available)
         self.assertEqual(result,updater.render(result,d,keys))
 
 if __name__ == '__main__': unittest.main()

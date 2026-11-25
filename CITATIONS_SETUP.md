@@ -1,6 +1,6 @@
 # Citation counts in the GitHub README
 
-The counts are ordinary Markdown links inside `README.md`. GitHub renders them without JavaScript, a website, or a browser cache. OpenAlex is the source; counts can differ from Google Scholar and other indexes.
+The counts are rectangular Shields.io image badges inside `README.md`, using standard Markdown. Available counts link to their OpenAlex work pages. GitHub renders the badges without JavaScript; each badge URL includes the stored count, so Shields.io does not query OpenAlex. The daily updater changes the badge URL when the count changes. Unmatched papers show a gray unavailable badge. OpenAlex is the source; counts can differ from Google Scholar and other indexes.
 
 ## Local files
 
@@ -14,7 +14,7 @@ Copy these files into the existing repository, preserving their paths:
 
 `preview.html` previews the same static README counts; it makes no API requests. `README.diff` compares the updated reading list with the original repository README. The ZIP includes the repository files and this guide.
 
-Everything has been prepared locally. The workflow is not installed or running on GitHub yet.
+The files and daily workflow have been installed in `AvivBick/awesome-ssm-ml`. The local preview and ZIP are review copies.
 
 ## Activate later on GitHub
 
