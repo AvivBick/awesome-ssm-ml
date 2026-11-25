@@ -1,0 +1,45 @@
+name: Update citation counts
+
+on:
+  schedule:
+    - cron: '23 7 * * *' # Daily at 07:23 UTC.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-citations
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+      - name: Test the updater
+        run: python -m unittest discover -s tests -p 'test_update_citations.py' -v
+      - name: Refresh counts and render README
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update_citations.py
+      - name: Commit updated citation counts
+        run: |
+          git add README.md data/citations.json
+          if git diff --cached --quiet; then
+            echo "No citation changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "docs: update citation counts"
+          git pull --rebase
+          git push
