@@ -1593,6 +1593,57 @@
       "openalex_id": "W4392616671",
       "citation_count": 60,
       "updated_at": "2026-11-22T19:19:13+00:00"
+    },
+    "2502.10297": {
+      "title": "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products",
+      "url": "https://arxiv.org/abs/2502.10297",
+      "aliases": [
+        "DeltaProduct: Improving State-Tracking in Linear RNNs via Householder Products",
+        "DeltaProduct: Increasing the Expressivity of DeltaNet Through Products of Householders"
+      ],
+      "openalex_id": "W7196932094",
+      "citation_count": 116,
+      "updated_at": "2026-11-26T03:24:14+00:00"
+    },
+    "2605.22791": {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "https://arxiv.org/abs/2605.22791",
+      "aliases": [
+        "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
+      ],
+      "openalex_id": "W7162071591",
+      "citation_count": 61,
+      "updated_at": "2026-11-26T03:23:49+00:00"
+    },
+    "2503.14456": {
+      "title": "RWKV-7 \"Goose\" with Expressive Dynamic State Evolution",
+      "url": "https://arxiv.org/abs/2503.14456",
+      "aliases": [
+        "RWKV-7 \"Goose\" with Expressive Dynamic State Evolution"
+      ],
+      "openalex_id": null,
+      "citation_count": null,
+      "updated_at": null
+    },
+    "2506.05233": {
+      "title": "MesaNet: Sequence Modeling by Locally Optimal Test-Time Training",
+      "url": "https://arxiv.org/abs/2506.05233",
+      "aliases": [
+        "MesaNet: Sequence Modeling by Locally Optimal Test-Time Training"
+      ],
+      "openalex_id": "W4416076766",
+      "citation_count": 83,
+      "updated_at": "2026-11-26T03:23:49+00:00"
+    },
+    "2501.00663": {
+      "title": "Titans: Learning to Memorize at Test Time",
+      "url": "https://arxiv.org/abs/2501.00663",
+      "aliases": [
+        "Titans: Learning to Memorize at Test Time"
+      ],
+      "openalex_id": "W4406032263",
+      "citation_count": 510,
+      "updated_at": "2026-11-26T03:23:49+00:00"
     }
   }
 }
